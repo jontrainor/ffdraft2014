@@ -5,9 +5,23 @@ body {
 img {
 	position: fixed;
 	left: 500px;
-	top: 40px;
+	top: 250px;
+	width: auto;
+	height: 375px;
+}
+
+.topPlayerContainer {
+	position: fixed;
+	left: 500px;
+	top: 0;
 	width: 500px;
-	height: auto;
+	height: 200px;
+}
+
+.topPlayerContainer div {
+	margin: 10px 0;
+	font-size: 18px;
+	font-weight: bold;
 }
 
 ul {
@@ -26,7 +40,7 @@ li {
 	user-select: none;
 }
 
-li.selected {
+.selected {
 	text-decoration: line-through;
 }
 
