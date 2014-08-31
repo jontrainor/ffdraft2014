@@ -49,27 +49,26 @@ li {
 }
 
 .player-rb > .teamAndPosition {
-	background-color: #E8300C;
+	background-color: #98FB98;
 }
 
 .player-wr > .teamAndPosition {
-	background-color: #7FE6FA;
+	background-color: #FFFFFF;
 }
 
 .player-qb > .teamAndPosition {
-	background-color: #000FFF;
-	color: #FFFFFF;
+	background-color: #E8300C;
 }
 
 .player-te > .teamAndPosition {
-	background-color: #FFCCCC;
+	background-color: #ADD8E6;
 }
 
 .player-k > .teamAndPosition {
-	background-color: #F0A804;
+	background-color: #FBEC5D;
 }
 
 .player-def > .teamAndPosition {
-	background-color: #820BBB;
+	background-color: #000FFF;
 	color: #FFFFFF;
 }
